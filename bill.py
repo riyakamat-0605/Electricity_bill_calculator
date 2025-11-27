@@ -11,5 +11,6 @@ rate = 5
 bill = units * rate
 
 print("Units Consumed:", units)
-print("Rate per Unit: ₹5")
-print("Total Bill: ₹", bill)
+print("Rate per Unit: Rs", rate)
+print("Total Bill: Rs", bill)
+
